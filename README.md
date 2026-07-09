@@ -95,7 +95,7 @@ I care about building things that actually work in the real world: systems with 
 </tr>
 </table>
 
-<sub>Also working with: LLMs · RAG · LangChain · AI Agents · OpenAI API · Gemini API · YOLO · REST APIs · JWT · WebSockets · Postman · Figma · Linux · GitHub Actions</sub>
+**Also working with:** LLMs · RAG · LangChain · AI Agents · OpenAI API · Gemini API · YOLO · REST APIs · JWT · WebSockets · Postman · Figma · Linux · GitHub Actions
 
 <br/>
 
@@ -169,9 +169,6 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 </td>
 </tr>
 </table>
-
-<div align="center">
-</div>
 
 <br/>
 
