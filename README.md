@@ -53,8 +53,21 @@ I care about building things that actually work in the real world: systems with 
 - Cloud-native deployment (AWS)
 
 </td>
-</tr>
-</table>
+</tr></table>
+
+<br/>
+
+## 💼 Experience
+
+### AI & Full Stack Developer Intern
+**Global Pathways AI, Inc.**
+📍 San Francisco, California, United States (Remote)
+
+- Developing AI-powered web applications using React, TypeScript, FastAPI, and Python.
+- Building scalable frontend and backend features with modern software engineering practices.
+- Designing and integrating REST APIs, authentication systems, and intelligent AI-powered functionalities.
+- Collaborating with cross-functional teams to deliver scalable, user-centric product enhancements.
+- Contributing to AI-driven solutions that simplify international education and student guidance.
 
 <br/>
 
