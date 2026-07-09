@@ -1,17 +1,20 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Backend+Developer;Computer+Vision+Enthusiast;Building+Enterprise+AI+Products" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Iqra%20Mulla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;LLMs+%2B+RAG+%2B+AI+Agents+%2B+Computer+Vision;Full+Stack+%7C+Backend+%7C+ML+Engineering;Turning+ideas+into+scalable+real-world+products)](https://git.io/typing-svg)
+
+<br/>
+
+<p>
+<a href="mailto:iqramulla0605@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-<h1 align="center">Hi 👋, I'm Iqra Mulla</h1>
 
-<h3 align="center">
-AI Engineer • Full Stack Developer • Backend Developer
-</h3>
-
-<p align="center">
-Building scalable AI products using React, FastAPI, Flutter, Python, LLMs & Computer Vision.
-</p>
-
----
+</div>
 
 ## 👩‍💻 About Me
 
