@@ -171,7 +171,6 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 </table>
 
 <div align="center">
-<sub>📌 Pin your top 3–4 of these on your GitHub profile for maximum recruiter visibility.</sub>
 </div>
 
 <br/>
