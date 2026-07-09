@@ -14,6 +14,9 @@
 </p>
 
 </div>
+
+<br/>
+
 ## 👋 About Me
 
 I'm Iqra — an AI Engineer and Full Stack Developer based in Mumbai, India, building real, production-ready systems rather than toy projects. My work spans **LLM-powered products, AI agents, computer vision pipelines, and full-stack applications** — end to end, from backend architecture to shipped UI.
@@ -53,6 +56,8 @@ I care about building things that actually work in the real world: systems with 
 </tr>
 </table>
 
+<br/>
+
 ## 🛠️ Tech Stack
 
 <table>
@@ -91,6 +96,9 @@ I care about building things that actually work in the real world: systems with 
 </table>
 
 <sub>Also working with: LLMs · RAG · LangChain · AI Agents · OpenAI API · Gemini API · YOLO · REST APIs · JWT · WebSockets · Postman · Figma · Linux · GitHub Actions</sub>
+
+<br/>
+
 ## 🚀 Featured Projects
 
 <table>
@@ -163,8 +171,11 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 </table>
 
 <div align="center">
-<sub>📌 Pin your top 3–4 of these on your GitHub profile for maximum recruiter visibility — see repo-organization tips at the end.</sub>
+<sub>📌 Pin your top 3–4 of these on your GitHub profile for maximum recruiter visibility.</sub>
 </div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -191,9 +202,20 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 <img src="https://github-profile-trophy.vercel.app/?username=IqraM0605&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 </details>
+
+<br/>
+
+<!-- SNAKE ANIMATION: generated daily by GitHub Action, see workflow file -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/IqraM0605/IqraM0605/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+<br/>
+
 ## ⚡ Fun Facts
 
 - 🏅 Secretary, GeeksforGeeks College Chapter
+- 🥈 1st Runner-Up — Smart India Hackathon 2025
 - 🥉 2nd Runner-Up — Algorithm Competition
 - 🎯 Roles I've worn: Full Stack Developer · AI Developer · Flutter Developer
 - ☕ Debugging at 2 AM is basically a personality trait at this point
@@ -216,12 +238,3 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 <sub>Thanks for stopping by — always open to interesting conversations about AI, systems, and building things that matter.</sub>
 
 </div>
-
-## 🌱 Currently Learning
-
-- AI Agents & Multi-Agent Systems
-- Advanced RAG Pipelines
-- MCP (Model Context Protocol)
-- Docker & Kubernetes
-- AWS & Cloud Deployment
-- System Design
