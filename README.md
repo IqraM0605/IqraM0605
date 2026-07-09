@@ -229,7 +229,8 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 
 - 🏅 Secretary, GeeksforGeeks College Chapter
 - 🥈 1st Runner-Up — Smart India Hackathon 2025
-- 🥉 2nd Runner-Up — Algorithm Competition
+- 🥉 2nd Runner-Up — AlgorithmX Hackathon 2026
+- ⚡️ Semi-Finalist - Mastek Deep Blue 
 - 🎯 Roles I've worn: Full Stack Developer · AI Developer · Flutter Developer
 - ☕ Debugging at 2 AM is basically a personality trait at this point
 - 🧩 I'd rather build the whole system end-to-end than just the "cool" part
