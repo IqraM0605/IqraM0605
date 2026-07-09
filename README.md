@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Iqra Mulla</h1>
 
-<!--
-**IqraM0605/IqraM0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Engineer • Full Stack Developer • Backend Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable AI products using React, FastAPI, Flutter, Python, LLMs & Computer Vision.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🚀 Currently building **Aura OS** – Enterprise AI Operating System
+- 🌍 Working on **Global Pathways AI**
+- 🧠 Learning AI Agents, RAG Systems & Advanced LLM Applications
+- ⚙️ Backend Developer with **FastAPI, Python & APIs**
+- 💻 Full Stack Developer using **React, Next.js & TypeScript**
+- 📱 Mobile App Developer using **Flutter**
+- 👁️ Interested in **Computer Vision & Intelligent Automation**
+- 🎯 Goal: Build impactful AI products used by millions.
+
+---
