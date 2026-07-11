@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Iqra%20Mulla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=200&section=header&text=Iqra%20Mulla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;LLMs+%2B+RAG+%2B+AI+Agents+%2B+Computer+Vision;Full+Stack+%7C+Backend+%7C+ML+Engineering;Turning+ideas+into+scalable+real-world+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;LLMs+%2B+RAG+%2B+AI+Agents+%2B+Computer+Vision;Full+Stack+%7C+Backend+%7C+ML+Engineering;Turning+ideas+into+scalable+real-world+products)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:EC4899&height=3&section=header" width="100%"/>
 
 ## 👋 About Me
 
@@ -30,7 +30,7 @@ Most of my work is around LLM-powered products, AI agents, computer vision, and 
 - 👁️ Building **Drishti AI**, a computer vision and AI monitoring platform
 - 🌱 Currently learning: AI Agents, MCP, RAG systems, Docker, Kubernetes, AWS, and System Design
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:3B82F6&height=3&section=header" width="100%"/>
 
 ## 🎯 Current Focus
 
@@ -54,7 +54,7 @@ Most of my work is around LLM-powered products, AI agents, computer vision, and 
 </td>
 </tr></table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:EC4899&height=3&section=header" width="100%"/>
 
 ## 💼 Experience
 
@@ -68,7 +68,7 @@ Most of my work is around LLM-powered products, AI agents, computer vision, and 
 - Collaborating with cross-functional teams to deliver scalable, user-centric product enhancements.
 - Contributing to AI-driven solutions that simplify international education and student guidance.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:3B82F6&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -109,7 +109,7 @@ Most of my work is around LLM-powered products, AI agents, computer vision, and 
 
 **Also working with:** LLMs · RAG · LangChain · AI Agents · OpenAI API · Gemini API · YOLO · REST APIs · JWT · WebSockets · Postman · Figma · Linux · GitHub Actions
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:EC4899&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -122,7 +122,11 @@ Most of my work is around LLM-powered products, AI agents, computer vision, and 
 
 A premium, enterprise-grade AI platform combining AI chat, autonomous agents, a company knowledge base, workflow automation, meetings, and analytics dashboards. Built with a Notion/Linear/OpenAI-inspired UI, RAG-powered intelligence, and a full FastAPI + PostgreSQL backend.
 
-`React 19` `Next.js 15` `TypeScript` `FastAPI` `PostgreSQL` `LangChain` `RAG` `Qdrant`
+![React](https://img.shields.io/badge/React_19-3B82F6?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_15-8B5CF6?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EC4899?style=flat-square&logo=postgresql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-10B981?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -132,7 +136,8 @@ A premium, enterprise-grade AI platform combining AI chat, autonomous agents, a 
 
 An AI platform helping students discover and navigate international education opportunities.
 
-`AI` `Full Stack`
+![AI](https://img.shields.io/badge/AI-3B82F6?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack-8B5CF6?style=flat-square)
 
 </td>
 </tr>
@@ -144,7 +149,9 @@ An AI platform helping students discover and navigate international education op
 
 Face recognition, live monitoring, incident detection, admin dashboard, and backend APIs for civic infrastructure monitoring.
 
-`Computer Vision` `Backend APIs` `Face Recognition`
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-EC4899?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend_APIs-06B6D4?style=flat-square)
+![Face Recognition](https://img.shields.io/badge/Face_Recognition-10B981?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -154,7 +161,9 @@ Face recognition, live monitoring, incident detection, admin dashboard, and back
 
 Computer vision system detecting spitting, littering, and other public cleanliness violations in real time.
 
-`Computer Vision` `YOLO` `OpenCV`
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-3B82F6?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-8B5CF6?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-EC4899?style=flat-square)
 
 </td>
 </tr>
@@ -166,7 +175,8 @@ Computer vision system detecting spitting, littering, and other public cleanline
 
 Real-time monitoring platform combining computer vision with AI-driven analysis.
 
-`Computer Vision` `AI Monitoring`
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-06B6D4?style=flat-square)
+![AI Monitoring](https://img.shields.io/badge/AI_Monitoring-10B981?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -175,13 +185,13 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:3B82F6&height=3&section=header" width="100%"/>
 
 <details>
 <summary>🏆 GitHub Trophies</summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=IqraM0605&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=IqraM0605&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 </details>
 
@@ -196,7 +206,7 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 </picture>
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:8B5CF6,100:EC4899&height=3&section=header" width="100%"/>
 
 ## ⚡ Fun Facts
 
@@ -216,11 +226,11 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=IqraM0605&color=3B82F6&style=flat&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=IqraM0605&color=8B5CF6&style=flat&label=Profile+Views)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:3B82F6&height=120&section=footer"/>
 
 <sub>Thanks for stopping by. Always open to interesting conversations about AI, systems, and building things that matter.</sub>
 
