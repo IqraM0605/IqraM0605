@@ -23,11 +23,10 @@ I'm Iqra — an AI Engineer and Full Stack Developer based in Mumbai, India, bui
 
 I care about building things that actually work in the real world: systems with proper auth, databases, APIs, and deployment — not just notebooks and demos.
 
-- 🔭 Currently building **Aura OS** — an enterprise AI operating system with AI chat, agents, knowledge base, and document intelligence
+- 🔭 Currently building **Aura OS** — a premium enterprise AI operating system with AI chat, autonomous agents, workflow automation, knowledge base, and analytics
 - 🌍 Developing **Global Pathways AI** — helping students discover international education opportunities
 - 🛡️ Building **Civic AI** — an AI-powered civic monitoring platform with face recognition and incident detection
 - 🧹 Built **SWACHH AI** — a computer vision system detecting public cleanliness violations
-- ⏱️ Built **WIMTURN** — a virtual queue and turn management system
 - 👁️ Building **Drishti AI** — computer vision + AI monitoring platform
 - 🌱 Currently learning: **AI Agents, MCP, RAG systems, Docker, Kubernetes, AWS, and System Design**
 
@@ -121,9 +120,9 @@ I care about building things that actually work in the real world: systems with 
 ### 🧠 Aura OS
 **Enterprise AI Operating System** — *Currently Building*
 
-AI chat, autonomous agents, enterprise knowledge base, document intelligence, automation workflows, team workspace, and an admin dashboard — all backed by LLM integration.
+A premium, enterprise-grade AI platform combining AI chat, autonomous agents, a company knowledge base, workflow automation, meetings, and analytics dashboards — designed with a Notion/Linear/OpenAI-inspired UI, RAG-powered intelligence, and a full FastAPI + PostgreSQL backend.
 
-`React` `FastAPI` `PostgreSQL` `LLM Integration`
+`React 19` `Next.js 15` `TypeScript` `FastAPI` `PostgreSQL` `LangChain` `RAG` `Qdrant`
 
 </td>
 <td width="50%" valign="top">
@@ -162,22 +161,15 @@ Computer vision system detecting spitting, littering, and other public cleanline
 <tr>
 <td width="50%" valign="top">
 
-### ⏱️ WIMTURN
-**Turn Management & Queue Tracking System**
-
-A virtual queue tracking system with dual customer/admin roles, QR-based check-ins, and live queue status updates.
-
-`SwiftUI` `Full Stack`
-
-</td>
-<td width="50%" valign="top">
-
 ### 👁️ Drishti AI
 **Computer Vision + AI Monitoring Platform**
 
 Real-time monitoring platform combining computer vision with AI-driven analysis.
 
 `Computer Vision` `AI Monitoring`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
