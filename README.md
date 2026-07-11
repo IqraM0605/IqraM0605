@@ -21,7 +21,7 @@
 
 I'm Iqra, an AI Engineer and Full Stack Developer based in Mumbai, India. I like building things that actually work in production, not just demos that look good in a video.
 
-Most of my work is around LLM-powered products, AI agents, computer vision, and full-stack apps, usually handling everything from the backend architecture to the final UI.
+Most of my work is around LLM-powered products, AI agents, computer vision, and full-stack developer, usually handling everything from the backend architecture to the final UI.
 
 - 🔭 Currently building **Aura OS**, a premium enterprise AI operating system with AI chat, autonomous agents, workflow automation, a knowledge base, and analytics
 - 🌍 Developing **Global Pathways AI**, helping students discover international education opportunities
