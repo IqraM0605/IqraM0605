@@ -185,25 +185,6 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IqraM0605&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=A78BFA&icon_color=A78BFA&text_color=e2e8f0"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraM0605&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=A78BFA&text_color=e2e8f0"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=IqraM0605&theme=dark&hide_border=true&background=0f172a&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IqraM0605&theme=react-dark&bg_color=0f172a&color=A78BFA&line=A78BFA&point=e2e8f0&hide_border=true"/>
-
-</div>
-
-<br/>
-
 <details>
 <summary>🏆 GitHub Trophies</summary>
 <br/>
@@ -230,7 +211,7 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 - 🏅 Secretary, GeeksforGeeks College Chapter
 - 🥈 1st Runner-Up — Smart India Hackathon 2025
 - 🥉 2nd Runner-Up — AlgorithmX Hackathon 2026
-- ⚡️ Semi-Finalist - Mastek Deep Blue 
+- ⚡️ Semi-Finalist - Mastek Deep Blue
 - 🎯 Roles I've worn: Full Stack Developer · AI Developer · Flutter Developer
 - ☕ Debugging at 2 AM is basically a personality trait at this point
 - 🧩 I'd rather build the whole system end-to-end than just the "cool" part
