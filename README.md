@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;LLMs+%2B+RAG+%2B+AI+Agents+%2B+Computer+Vision;Full+Stack+%7C+Backend+%7C+ML+Engineering;Turning+ideas+into+scalable+real-world+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;LLMs+%2B+RAG+%2B+AI+Agents+%2B+Computer+Vision;Full+Stack+%7C+Backend+%7C+ML+Engineering;Turning+ideas+into+scalable+real-world+products)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,16 +19,16 @@
 
 ## 👋 About Me
 
-I'm Iqra — an AI Engineer and Full Stack Developer based in Mumbai, India, building real, production-ready systems rather than toy projects. My work spans **LLM-powered products, AI agents, computer vision pipelines, and full-stack applications** — end to end, from backend architecture to shipped UI.
+I'm Iqra, an AI Engineer and Full Stack Developer based in Mumbai, India. I like building things that actually work in production, not just demos that look good in a video.
 
-I care about building things that actually work in the real world: systems with proper auth, databases, APIs, and deployment — not just notebooks and demos.
+Most of my work is around LLM-powered products, AI agents, computer vision, and full-stack apps, usually handling everything from the backend architecture to the final UI.
 
-- 🔭 Currently building **Aura OS** — a premium enterprise AI operating system with AI chat, autonomous agents, workflow automation, knowledge base, and analytics
-- 🌍 Developing **Global Pathways AI** — helping students discover international education opportunities
-- 🛡️ Building **Civic AI** — an AI-powered civic monitoring platform with face recognition and incident detection
-- 🧹 Built **SWACHH AI** — a computer vision system detecting public cleanliness violations
-- 👁️ Building **Drishti AI** — computer vision + AI monitoring platform
-- 🌱 Currently learning: **AI Agents, MCP, RAG systems, Docker, Kubernetes, AWS, and System Design**
+- 🔭 Currently building **Aura OS**, a premium enterprise AI operating system with AI chat, autonomous agents, workflow automation, a knowledge base, and analytics
+- 🌍 Developing **Global Pathways AI**, helping students discover international education opportunities
+- 🛡️ Building **Civic AI**, an AI-powered civic monitoring platform with face recognition and incident detection
+- 🧹 Built **SWACHH AI**, a computer vision system that detects public cleanliness violations
+- 👁️ Building **Drishti AI**, a computer vision and AI monitoring platform
+- 🌱 Currently learning: AI Agents, MCP, RAG systems, Docker, Kubernetes, AWS, and System Design
 
 <br/>
 
@@ -48,7 +48,7 @@ I care about building things that actually work in the real world: systems with 
 
 **Sharpening**
 - System design at scale
-- Container orchestration (Docker → Kubernetes)
+- Container orchestration (Docker to Kubernetes)
 - Cloud-native deployment (AWS)
 
 </td>
@@ -118,9 +118,9 @@ I care about building things that actually work in the real world: systems with 
 <td width="50%" valign="top">
 
 ### 🧠 Aura OS
-**Enterprise AI Operating System** — *Currently Building*
+**Enterprise AI Operating System** · *Currently Building*
 
-A premium, enterprise-grade AI platform combining AI chat, autonomous agents, a company knowledge base, workflow automation, meetings, and analytics dashboards — designed with a Notion/Linear/OpenAI-inspired UI, RAG-powered intelligence, and a full FastAPI + PostgreSQL backend.
+A premium, enterprise-grade AI platform combining AI chat, autonomous agents, a company knowledge base, workflow automation, meetings, and analytics dashboards. Built with a Notion/Linear/OpenAI-inspired UI, RAG-powered intelligence, and a full FastAPI + PostgreSQL backend.
 
 `React 19` `Next.js 15` `TypeScript` `FastAPI` `PostgreSQL` `LangChain` `RAG` `Qdrant`
 
@@ -201,9 +201,9 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 ## ⚡ Fun Facts
 
 - 🏅 Secretary, GeeksforGeeks College Chapter
-- 🥈 1st Runner-Up — Smart India Hackathon 2025
-- 🥉 2nd Runner-Up — AlgorithmX Hackathon 2026
-- ⚡️ Semi-Finalist - Mastek Deep Blue
+- 🥈 1st Runner-Up, Smart India Hackathon 2025
+- 🥉 2nd Runner-Up, AlgorithmX Hackathon 2026
+- ⚡️ Semi-Finalist, Mastek Deep Blue
 - 🎯 Roles I've worn: Full Stack Developer · AI Developer · Flutter Developer
 - ☕ Debugging at 2 AM is basically a personality trait at this point
 - 🧩 I'd rather build the whole system end-to-end than just the "cool" part
@@ -216,12 +216,12 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=IqraM0605&color=A78BFA&style=flat&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=IqraM0605&color=3B82F6&style=flat&label=Profile+Views)
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
 
-<sub>Thanks for stopping by — always open to interesting conversations about AI, systems, and building things that matter.</sub>
+<sub>Thanks for stopping by. Always open to interesting conversations about AI, systems, and building things that matter.</sub>
 
 </div>
