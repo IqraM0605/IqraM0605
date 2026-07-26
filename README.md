@@ -210,7 +210,7 @@ Real-time monitoring platform combining computer vision with AI-driven analysis.
 
 ## ⚡ Fun Facts
 
-- 🏅 Secretary, GeeksforGeeks College Chapter
+- 🏅 Executive vice chairperson, GeeksforGeeks College Chapter
 - 🥈 1st Runner-Up, Smart India Hackathon 2025
 - 🥉 2nd Runner-Up, AlgorithmX Hackathon 2026
 - ⚡️ Semi-Finalist, Mastek Deep Blue
